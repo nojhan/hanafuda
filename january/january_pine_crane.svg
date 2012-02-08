@@ -152,17 +152,17 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="0.58271605"
-     inkscape:cx="810"
-     inkscape:cy="672.71186"
+     inkscape:cx="1250.1801"
+     inkscape:cy="653.83474"
      inkscape:document-units="in"
      inkscape:current-layer="layer3"
      showgrid="false"
      units="in"
-     inkscape:window-width="1912"
-     inkscape:window-height="1158"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:window-width="1854"
+     inkscape:window-height="1176"
+     inkscape:window-x="66"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
      borderlayer="true" />
   <metadata
      id="metadata7">
@@ -2131,7 +2131,7 @@
        sodipodi:cy="71.196754"
        sodipodi:rx="302.58621"
        sodipodi:ry="302.58621"
-       d="m 1321.2475,71.196754 a 302.58621,302.58621 0 1 1 -605.1724,0 302.58621,302.58621 0 1 1 605.1724,0 z" />
+       d="m 1321.2475,71.196754 c 0,167.113746 -135.4724,302.586216 -302.5862,302.586216 -167.11373,0 -302.5862,-135.47247 -302.5862,-302.586216 0,-167.11375 135.47247,-302.586214 302.5862,-302.586214 167.1138,0 302.5862,135.472464 302.5862,302.586214 z" />
     <g
        id="g33318"
        transform="translate(0,-100)">
@@ -2196,7 +2196,7 @@
          style="fill:#ff0000;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
       <path
          transform="matrix(1.532317,0,0,2.0731348,-349.44144,-391.26635)"
-         d="m 743.68309,272.37842 a 3.0496669,1.5248334 0 1 1 -6.09933,0 3.0496669,1.5248334 0 1 1 6.09933,0 z"
+         d="m 743.68309,272.37842 c 0,0.84214 -1.36538,1.52483 -3.04967,1.52483 -1.68428,0 -3.04966,-0.68269 -3.04966,-1.52483 0,-0.84214 1.36538,-1.52484 3.04966,-1.52484 1.68429,0 3.04967,0.6827 3.04967,1.52484 z"
          sodipodi:ry="1.5248334"
          sodipodi:rx="3.0496669"
          sodipodi:cy="272.37842"
@@ -3828,11 +3828,11 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Cards"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,270)">
     <rect
        style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
-       id="rect5445"
+       id="card_1"
        width="335.5"
        height="605.5"
        x="90.409653"
@@ -3842,41 +3842,41 @@
        inkscape:export-xdpi="88.888885"
        inkscape:export-ydpi="88.888885"
        inkscape:export-filename="/home/nojhan/code/hanafuda/january_1.png" />
-    <use
-       style="stroke:#000000;display:inline"
-       x="0"
-       y="0"
-       xlink:href="#rect5445"
-       id="use5447"
-       transform="translate(306.6937,645.40905)"
-       width="1350"
-       height="1350"
-       inkscape:export-filename="/home/nojhan/code/hanafuda/january_2.png"
+    <rect
+       inkscape:export-filename="/home/nojhan/code/hanafuda/january_1.png"
+       inkscape:export-ydpi="88.888885"
        inkscape:export-xdpi="88.888885"
-       inkscape:export-ydpi="88.888885" />
-    <use
-       style="stroke:#000000;display:inline"
-       height="1350"
-       width="1350"
-       transform="translate(928.66166,734.07166)"
-       id="use5449"
-       xlink:href="#rect5445"
-       y="0"
-       x="0"
-       inkscape:export-filename="/home/nojhan/code/hanafuda/january_poem.png"
+       ry="0"
+       rx="0"
+       y="645.03076"
+       x="397.10336"
+       height="605.5"
+       width="335.5"
+       id="card_2"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-filename="/home/nojhan/code/hanafuda/january_1.png"
+       inkscape:export-ydpi="88.888885"
        inkscape:export-xdpi="88.888885"
-       inkscape:export-ydpi="88.888885" />
-    <use
-       style="stroke:#000000;display:inline"
-       x="0"
-       y="0"
-       xlink:href="#rect5445"
-       id="use5451"
-       transform="translate(564.09734,19.699072)"
-       width="1350"
-       height="1350"
-       inkscape:export-filename="/home/nojhan/code/hanafuda/january_crane.png"
+       ry="0"
+       rx="0"
+       y="733.69336"
+       x="1019.0713"
+       height="605.5"
+       width="335.5"
+       id="card_4"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+    <rect
+       inkscape:export-filename="/home/nojhan/code/hanafuda/january_1.png"
+       inkscape:export-ydpi="88.888885"
        inkscape:export-xdpi="88.888885"
-       inkscape:export-ydpi="88.888885" />
+       ry="0"
+       rx="0"
+       y="19.320776"
+       x="654.50702"
+       height="605.5"
+       width="335.5"
+       id="card_3"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>
