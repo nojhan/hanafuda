@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # for each svg file
-for svg in `find . -name *.svg` ; do 
+for svg in `find $1 -name *.svg` ; do 
 
     # the complete filename without the extension
     base=`echo $svg | sed s/.svg//`
