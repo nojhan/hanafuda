@@ -1,6 +1,6 @@
 
 ##### Variables #####
-SVGs := $(shell find . -type f -name "*.svg" -not -path "./sources/*")
+SVGs := $(shell find . -type f -name "*.svg" -not -path "./sources/*" | sort)
 # $(info SVGs: $(SVGs))
 
 SIGHTS := $(SVGs:.svg=.png)
@@ -25,10 +25,10 @@ clean:
 
 #### Galleries #####
 gallery_sights.png: $(SIGHTS)
-	montage $(SIGHTS) -geometry 512 -border 10 -frame 4 -mattecolor black -shadow $@
+	montage -label '%[Title]\n© %[Author] — %[Creation Time] — %[Copyright]' $(SIGHTS) -title "Hanafuda by nojhan" -geometry 1024 -borderwidth 20 -frame 7 -shadow -tile 1x $@
 
 gallery_cards.png: $(CARDS)
-	montage $(CARDS)  -geometry 256 -border 10 -frame 4 -mattecolor black -shadow -tile 4x $@
+	montage $(CARDS) -title "Hanafuda by nojhan" -geometry  256 -borderwidth 10 -frame 4 -mattecolor black -shadow -tile 4x $@
 
 
 ##### Sights #####
