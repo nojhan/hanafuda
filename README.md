@@ -1,4 +1,13 @@
-# nojhan's Hanafuda cards set and almanac
+# THIS REPOSITORY HAS MOVED
+
+It is now available at: https://nojhan.net/git/nojhan/hanafuda
+
+You can federate with it from Codeberg or another Forgejo instance.
+
+Please consider self-hosting to preserve the open Web, I highly recommend: https://yunohost.org
+
+
+## nojhan's Hanafuda cards set and almanac
 
 This is a set of 12 vector pictures, one for each month of the year,
 in the SVG format.
@@ -6,7 +15,7 @@ Each picture contains details that can be exported
 as a set of Hanafuda cards.
 
 
-## Create the cards and the almanac
+### Create the cards and the almanac
 
 You need to have [imagemagick](https://imagemagick.org/)
 and [inkscape](https://www.inkscape.org) installed on your computer.
